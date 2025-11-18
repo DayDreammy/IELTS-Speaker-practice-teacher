@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Tutor AI",
+  "description": "A real-time conversational IELTS speaking practice partner powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
